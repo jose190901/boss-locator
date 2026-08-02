@@ -1,0 +1,12 @@
+{
+  "key.boss_locator.open": "Abrir Localizador de Boss",
+  "key.categories.boss_locator": "Localizador de Boss",
+  "boss_locator.menu.title": "Localizador de Boss",
+  "boss_locator.menu.subtitle": "Localize as arenas dos bosses do Cataclysm",
+  "boss_locator.menu.loading": "Procurando estruturas...",
+  "boss_locator.menu.none": "Nenhuma estrutura de boss encontrada.",
+  "boss_locator.menu.header": "Arenas dos Bosses",
+  "boss_locator.menu.close": "Fechar",
+  "boss_locator.msg.ready": "Você está realmente pronto? As chamas do Cataclysm te aguardam...",
+  "boss_locator.msg.not_found": "Nenhuma estrutura do Cataclysm encontrada neste mundo."
+}

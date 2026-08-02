@@ -7,6 +7,9 @@
   "boss_locator.menu.none": "No boss structures found nearby.",
   "boss_locator.menu.header": "Boss Arenas",
   "boss_locator.menu.close": "Close",
+  "boss_locator.menu.cost": "Cost: %s",
   "boss_locator.msg.ready": "Are you truly ready? The flames of the Cataclysm await...",
+  "boss_locator.msg.unlocked": "Coordinates revealed: %s. The Cataclysm awaits...",
+  "boss_locator.msg.cannot_unlock": "You cannot unlock %s. You need the required item and XP levels.",
   "boss_locator.msg.not_found": "No Cataclysm structure found in this world."
 }

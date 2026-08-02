@@ -7,6 +7,9 @@
   "boss_locator.menu.none": "Nenhuma estrutura de boss encontrada.",
   "boss_locator.menu.header": "Arenas dos Bosses",
   "boss_locator.menu.close": "Fechar",
+  "boss_locator.menu.cost": "Custo: %s",
   "boss_locator.msg.ready": "Você está realmente pronto? As chamas do Cataclysm te aguardam...",
+  "boss_locator.msg.unlocked": "Coordenadas reveladas: %s. O Cataclysm te aguarda...",
+  "boss_locator.msg.cannot_unlock": "Você não pode desbloquear %s. Você precisa do item exigido e dos níveis de XP.",
   "boss_locator.msg.not_found": "Nenhuma estrutura do Cataclysm encontrada neste mundo."
 }
